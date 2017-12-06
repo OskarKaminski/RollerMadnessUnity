@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerMadnessOskar", "RollerMadnessOskar.csproj", "{6EB21BAA-AACD-EA53-C776-AFE27E8120C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerMadnessOskar.Plugins", "RollerMadnessOskar.Plugins.csproj", "{58DF4154-0ABE-EB8C-FA11-F91588A62CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerMadnessOskar.Editor.Plugins", "RollerMadnessOskar.Editor.Plugins.csproj", "{88B4CDCA-B765-A7D3-D3D3-43561476C654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB21BAA-AACD-EA53-C776-AFE27E8120C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB21BAA-AACD-EA53-C776-AFE27E8120C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB21BAA-AACD-EA53-C776-AFE27E8120C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB21BAA-AACD-EA53-C776-AFE27E8120C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DF4154-0ABE-EB8C-FA11-F91588A62CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF4154-0ABE-EB8C-FA11-F91588A62CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DF4154-0ABE-EB8C-FA11-F91588A62CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DF4154-0ABE-EB8C-FA11-F91588A62CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B4CDCA-B765-A7D3-D3D3-43561476C654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B4CDCA-B765-A7D3-D3D3-43561476C654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B4CDCA-B765-A7D3-D3D3-43561476C654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B4CDCA-B765-A7D3-D3D3-43561476C654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
